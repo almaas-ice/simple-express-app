@@ -2,9 +2,9 @@
   "name": "simple-express-app",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app"
+    "start": "node index"
   },
   "author": "almaas",
   "license": "ISC",
